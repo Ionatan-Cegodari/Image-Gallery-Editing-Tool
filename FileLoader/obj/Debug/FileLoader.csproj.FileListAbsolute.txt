@@ -1,0 +1,12 @@
+D:\Data\Code\C#\ImageGallery\FileLoader\bin\Debug\FileLoader.dll
+D:\Data\Code\C#\ImageGallery\FileLoader\bin\Debug\FileLoader.pdb
+D:\Data\Code\C#\ImageGallery\FileLoader\obj\Debug\FileLoader.csproj.AssemblyReference.cache
+D:\Data\Code\C#\ImageGallery\FileLoader\obj\Debug\FileLoader.csproj.CoreCompileInputs.cache
+D:\Data\Code\C#\ImageGallery\FileLoader\obj\Debug\FileLoader.dll
+D:\Data\Code\C#\ImageGallery\FileLoader\obj\Debug\FileLoader.pdb
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\FileLoader\bin\Debug\FileLoader.dll
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\FileLoader\bin\Debug\FileLoader.pdb
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\FileLoader\obj\Debug\FileLoader.csproj.AssemblyReference.cache
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\FileLoader\obj\Debug\FileLoader.csproj.CoreCompileInputs.cache
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\FileLoader\obj\Debug\FileLoader.dll
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\FileLoader\obj\Debug\FileLoader.pdb

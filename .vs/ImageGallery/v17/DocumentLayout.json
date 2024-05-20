@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E919B87-F3A0-4780-ACF8-10A799CEA6B9}|Controller\\Controller.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\controller\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E919B87-F3A0-4780-ACF8-10A799CEA6B9}|Controller\\Controller.csproj|solutionrelative:controller\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E919B87-F3A0-4780-ACF8-10A799CEA6B9}|Controller\\Controller.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E919B87-F3A0-4780-ACF8-10A799CEA6B9}|Controller\\Controller.csproj|solutionrelative:controller\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E919B87-F3A0-4780-ACF8-10A799CEA6B9}|Controller\\Controller.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\controller\\icontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E919B87-F3A0-4780-ACF8-10A799CEA6B9}|Controller\\Controller.csproj|solutionrelative:controller\\icontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E919B87-F3A0-4780-ACF8-10A799CEA6B9}|Controller\\Controller.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\controller\\icontrolimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E919B87-F3A0-4780-ACF8-10A799CEA6B9}|Controller\\Controller.csproj|solutionrelative:controller\\icontrolimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E919B87-F3A0-4780-ACF8-10A799CEA6B9}|Controller\\Controller.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\controller\\icontrolmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E919B87-F3A0-4780-ACF8-10A799CEA6B9}|Controller\\Controller.csproj|solutionrelative:controller\\icontrolmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE1DF9D-4215-4028-88FB-F745F4764DCC}|View\\View.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\view\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE1DF9D-4215-4028-88FB-F745F4764DCC}|View\\View.csproj|solutionrelative:view\\iview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE1DF9D-4215-4028-88FB-F745F4764DCC}|View\\View.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\view\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE1DF9D-4215-4028-88FB-F745F4764DCC}|View\\View.csproj|solutionrelative:view\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE1DF9D-4215-4028-88FB-F745F4764DCC}|View\\View.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\view\\iimageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE1DF9D-4215-4028-88FB-F745F4764DCC}|View\\View.csproj|solutionrelative:view\\iimageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBC6C16-3916-448F-9252-7D14F4B5A58E}|Transformer\\Transformer.csproj|d:\\github projects\\a.software developer projects\\imagegallery\\transformer\\transformationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBC6C16-3916-448F-9252-7D14F4B5A58E}|Transformer\\Transformer.csproj|solutionrelative:transformer\\transformationtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBC6C16-3916-448F-9252-7D14F4B5A58E}|Transformer\\Transformer.csproj|d:\\github projects\\a.software developer projects\\imagegallery\\transformer\\itransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBC6C16-3916-448F-9252-7D14F4B5A58E}|Transformer\\Transformer.csproj|solutionrelative:transformer\\itransform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBC6C16-3916-448F-9252-7D14F4B5A58E}|Transformer\\Transformer.csproj|d:\\github projects\\a.software developer projects\\imagegallery\\transformer\\irotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBC6C16-3916-448F-9252-7D14F4B5A58E}|Transformer\\Transformer.csproj|solutionrelative:transformer\\irotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBC6C16-3916-448F-9252-7D14F4B5A58E}|Transformer\\Transformer.csproj|d:\\github projects\\a.software developer projects\\imagegallery\\transformer\\imagetransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBC6C16-3916-448F-9252-7D14F4B5A58E}|Transformer\\Transformer.csproj|solutionrelative:transformer\\imagetransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBC6C16-3916-448F-9252-7D14F4B5A58E}|Transformer\\Transformer.csproj|d:\\github projects\\a.software developer projects\\imagegallery\\transformer\\imagerotater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBC6C16-3916-448F-9252-7D14F4B5A58E}|Transformer\\Transformer.csproj|solutionrelative:transformer\\imagerotater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBC6C16-3916-448F-9252-7D14F4B5A58E}|Transformer\\Transformer.csproj|d:\\github projects\\a.software developer projects\\imagegallery\\transformer\\imageflipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBC6C16-3916-448F-9252-7D14F4B5A58E}|Transformer\\Transformer.csproj|solutionrelative:transformer\\imageflipper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBC6C16-3916-448F-9252-7D14F4B5A58E}|Transformer\\Transformer.csproj|d:\\github projects\\a.software developer projects\\imagegallery\\transformer\\iflip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBC6C16-3916-448F-9252-7D14F4B5A58E}|Transformer\\Transformer.csproj|solutionrelative:transformer\\iflip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C72C223-ED22-4CCC-9FC3-22690B0355D4}|Router\\Router.csproj|d:\\github projects\\a.software developer projects\\imagegallery\\router\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C72C223-ED22-4CCC-9FC3-22690B0355D4}|Router\\Router.csproj|solutionrelative:router\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C72C223-ED22-4CCC-9FC3-22690B0355D4}|Router\\Router.csproj|d:\\github projects\\a.software developer projects\\imagegallery\\router\\iresolveroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C72C223-ED22-4CCC-9FC3-22690B0355D4}|Router\\Router.csproj|solutionrelative:router\\iresolveroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F8FB5E-AABD-4DAE-9EBD-E09B13BB184F}|Model\\Model.csproj|d:\\github projects\\a.software developer projects\\imagegallery\\model\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F8FB5E-AABD-4DAE-9EBD-E09B13BB184F}|Model\\Model.csproj|solutionrelative:model\\imodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F8FB5E-AABD-4DAE-9EBD-E09B13BB184F}|Model\\Model.csproj|d:\\github projects\\a.software developer projects\\imagegallery\\model\\imagesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F8FB5E-AABD-4DAE-9EBD-E09B13BB184F}|Model\\Model.csproj|solutionrelative:model\\imagesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA01D42A-4D7F-4860-BAF5-F45CCEC8774E}|Main\\ImageGallery.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA01D42A-4D7F-4860-BAF5-F45CCEC8774E}|Main\\ImageGallery.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA01D42A-4D7F-4860-BAF5-F45CCEC8774E}|Main\\ImageGallery.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\main\\iapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA01D42A-4D7F-4860-BAF5-F45CCEC8774E}|Main\\ImageGallery.csproj|solutionrelative:main\\iapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA01D42A-4D7F-4860-BAF5-F45CCEC8774E}|Main\\ImageGallery.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\main\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA01D42A-4D7F-4860-BAF5-F45CCEC8774E}|Main\\ImageGallery.csproj|solutionrelative:main\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738575B1-6E3D-4FD2-96DA-0484D9F4D971}|FileSaver\\FileSaver.csproj|d:\\github projects\\a.software developer projects\\imagegallery\\filesaver\\isave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738575B1-6E3D-4FD2-96DA-0484D9F4D971}|FileSaver\\FileSaver.csproj|solutionrelative:filesaver\\isave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738575B1-6E3D-4FD2-96DA-0484D9F4D971}|FileSaver\\FileSaver.csproj|d:\\github projects\\a.software developer projects\\imagegallery\\filesaver\\imagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738575B1-6E3D-4FD2-96DA-0484D9F4D971}|FileSaver\\FileSaver.csproj|solutionrelative:filesaver\\imagesaver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936E21-DB2C-4405-A5EF-4ECEB68862D7}|FileLoader\\FileLoader.csproj|D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\fileloader\\imageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936E21-DB2C-4405-A5EF-4ECEB68862D7}|FileLoader\\FileLoader.csproj|solutionrelative:fileloader\\imageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8936E21-DB2C-4405-A5EF-4ECEB68862D7}|FileLoader\\FileLoader.csproj|d:\\github projects\\a.software developer projects\\imagegallery\\fileloader\\iload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8936E21-DB2C-4405-A5EF-4ECEB68862D7}|FileLoader\\FileLoader.csproj|solutionrelative:fileloader\\iload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransformationTypes.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Transformer\\TransformationTypes.cs",
+              "RelativeDocumentMoniker": "Transformer\\TransformationTypes.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Transformer\\TransformationTypes.cs",
+              "RelativeToolTip": "Transformer\\TransformationTypes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:35:29.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IImageView.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\View\\IImageView.cs",
+              "RelativeDocumentMoniker": "View\\IImageView.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\View\\IImageView.cs",
+              "RelativeToolTip": "View\\IImageView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T01:17:36.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMainView.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\View\\IMainView.cs",
+              "RelativeDocumentMoniker": "View\\IMainView.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\View\\IMainView.cs",
+              "RelativeToolTip": "View\\IMainView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:18:05.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IView.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\View\\IView.cs",
+              "RelativeDocumentMoniker": "View\\IView.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\View\\IView.cs",
+              "RelativeToolTip": "View\\IView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:18:00.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Controller\\ImageController.cs",
+              "RelativeDocumentMoniker": "Controller\\ImageController.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Controller\\ImageController.cs",
+              "RelativeToolTip": "Controller\\ImageController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T01:27:19.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Controller\\MainController.cs",
+              "RelativeDocumentMoniker": "Controller\\MainController.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Controller\\MainController.cs",
+              "RelativeToolTip": "Controller\\MainController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:17:52.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IControlMain.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Controller\\IControlMain.cs",
+              "RelativeDocumentMoniker": "Controller\\IControlMain.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Controller\\IControlMain.cs",
+              "RelativeToolTip": "Controller\\IControlMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:17:50.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IControlImage.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Controller\\IControlImage.cs",
+              "RelativeDocumentMoniker": "Controller\\IControlImage.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Controller\\IControlImage.cs",
+              "RelativeToolTip": "Controller\\IControlImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T01:29:39.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IControl.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Controller\\IControl.cs",
+              "RelativeDocumentMoniker": "Controller\\IControl.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Controller\\IControl.cs",
+              "RelativeToolTip": "Controller\\IControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:17:48.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITransform.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Transformer\\ITransform.cs",
+              "RelativeDocumentMoniker": "Transformer\\ITransform.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Transformer\\ITransform.cs",
+              "RelativeToolTip": "Transformer\\ITransform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:35:27.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRotate.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Transformer\\IRotate.cs",
+              "RelativeDocumentMoniker": "Transformer\\IRotate.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Transformer\\IRotate.cs",
+              "RelativeToolTip": "Transformer\\IRotate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:35:27.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImageTransformer.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Transformer\\ImageTransformer.cs",
+              "RelativeDocumentMoniker": "Transformer\\ImageTransformer.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Transformer\\ImageTransformer.cs",
+              "RelativeToolTip": "Transformer\\ImageTransformer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:35:25.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImageRotater.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Transformer\\ImageRotater.cs",
+              "RelativeDocumentMoniker": "Transformer\\ImageRotater.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Transformer\\ImageRotater.cs",
+              "RelativeToolTip": "Transformer\\ImageRotater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:35:24.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImageFlipper.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Transformer\\ImageFlipper.cs",
+              "RelativeDocumentMoniker": "Transformer\\ImageFlipper.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Transformer\\ImageFlipper.cs",
+              "RelativeToolTip": "Transformer\\ImageFlipper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:35:20.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFlip.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Transformer\\IFlip.cs",
+              "RelativeDocumentMoniker": "Transformer\\IFlip.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Transformer\\IFlip.cs",
+              "RelativeToolTip": "Transformer\\IFlip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:35:19.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Route.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Router\\Route.cs",
+              "RelativeDocumentMoniker": "Router\\Route.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Router\\Route.cs",
+              "RelativeToolTip": "Router\\Route.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:35:11.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IResolveRoutes.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Router\\IResolveRoutes.cs",
+              "RelativeDocumentMoniker": "Router\\IResolveRoutes.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Router\\IResolveRoutes.cs",
+              "RelativeToolTip": "Router\\IResolveRoutes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:35:05.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IModel.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Model\\IModel.cs",
+              "RelativeDocumentMoniker": "Model\\IModel.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Model\\IModel.cs",
+              "RelativeToolTip": "Model\\IModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:35:00.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ImagesModel.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Model\\ImagesModel.cs",
+              "RelativeDocumentMoniker": "Model\\ImagesModel.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Model\\ImagesModel.cs",
+              "RelativeToolTip": "Model\\ImagesModel.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:34:55.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ISave.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\FileSaver\\ISave.cs",
+              "RelativeDocumentMoniker": "FileSaver\\ISave.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\FileSaver\\ISave.cs",
+              "RelativeToolTip": "FileSaver\\ISave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:34:27.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ImageSaver.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\FileSaver\\ImageSaver.cs",
+              "RelativeDocumentMoniker": "FileSaver\\ImageSaver.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\FileSaver\\ImageSaver.cs",
+              "RelativeToolTip": "FileSaver\\ImageSaver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:34:26.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ImageLoader.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\FileLoader\\ImageLoader.cs",
+              "RelativeDocumentMoniker": "FileLoader\\ImageLoader.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\FileLoader\\ImageLoader.cs",
+              "RelativeToolTip": "FileLoader\\ImageLoader.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:36:53.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ILoad.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\FileLoader\\ILoad.cs",
+              "RelativeDocumentMoniker": "FileLoader\\ILoad.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\FileLoader\\ILoad.cs",
+              "RelativeToolTip": "FileLoader\\ILoad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:34:16.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Main\\Program.cs",
+              "RelativeDocumentMoniker": "Main\\Program.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Main\\Program.cs",
+              "RelativeToolTip": "Main\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:17:34.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IApp.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Main\\IApp.cs",
+              "RelativeDocumentMoniker": "Main\\IApp.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Main\\IApp.cs",
+              "RelativeToolTip": "Main\\IApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:17:32.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.cs",
+              "DocumentMoniker": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Main\\App.cs",
+              "RelativeDocumentMoniker": "Main\\App.cs",
+              "ToolTip": "D:\\GitHub Projects\\A.Software Developer Projects\\ImageGallery\\Main\\App.cs",
+              "RelativeToolTip": "Main\\App.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:17:30.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

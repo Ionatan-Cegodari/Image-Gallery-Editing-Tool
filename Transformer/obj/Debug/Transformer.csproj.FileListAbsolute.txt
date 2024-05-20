@@ -1,0 +1,12 @@
+D:\Data\Code\C#\ImageGallery\Transformer\bin\Debug\Transformer.dll
+D:\Data\Code\C#\ImageGallery\Transformer\bin\Debug\Transformer.pdb
+D:\Data\Code\C#\ImageGallery\Transformer\obj\Debug\Transformer.csproj.AssemblyReference.cache
+D:\Data\Code\C#\ImageGallery\Transformer\obj\Debug\Transformer.csproj.CoreCompileInputs.cache
+D:\Data\Code\C#\ImageGallery\Transformer\obj\Debug\Transformer.dll
+D:\Data\Code\C#\ImageGallery\Transformer\obj\Debug\Transformer.pdb
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\Transformer\bin\Debug\Transformer.dll
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\Transformer\bin\Debug\Transformer.pdb
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\Transformer\obj\Debug\Transformer.csproj.AssemblyReference.cache
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\Transformer\obj\Debug\Transformer.csproj.CoreCompileInputs.cache
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\Transformer\obj\Debug\Transformer.dll
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\Transformer\obj\Debug\Transformer.pdb

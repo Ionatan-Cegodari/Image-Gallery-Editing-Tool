@@ -1,0 +1,12 @@
+D:\Data\Code\C#\ImageGallery\Router\bin\Debug\Router.dll
+D:\Data\Code\C#\ImageGallery\Router\bin\Debug\Router.pdb
+D:\Data\Code\C#\ImageGallery\Router\obj\Debug\Router.csproj.AssemblyReference.cache
+D:\Data\Code\C#\ImageGallery\Router\obj\Debug\Router.csproj.CoreCompileInputs.cache
+D:\Data\Code\C#\ImageGallery\Router\obj\Debug\Router.dll
+D:\Data\Code\C#\ImageGallery\Router\obj\Debug\Router.pdb
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\Router\bin\Debug\Router.dll
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\Router\bin\Debug\Router.pdb
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\Router\obj\Debug\Router.csproj.AssemblyReference.cache
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\Router\obj\Debug\Router.csproj.CoreCompileInputs.cache
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\Router\obj\Debug\Router.dll
+D:\A.University\A.Third Year\Advanced Software Engineering\Semester 2\Assignment 2\ImageGallery\Router\obj\Debug\Router.pdb
