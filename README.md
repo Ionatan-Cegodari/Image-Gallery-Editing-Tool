@@ -12,7 +12,7 @@ Low-Level UML Diagram used:
 
 Model
 
-![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/ff74748c-0da2-43fd-9901-1b13506ba763)
+![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/3de4c45f-0536-476d-ae52-1da69fda64ba)
 
 Controller
 ![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/1d20b018-e920-48b7-86c0-3fd1fd168eb6)
