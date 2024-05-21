@@ -5,7 +5,7 @@ Throughout this group project with me and Matthew Bowman, we used the MVC Archet
 
 We also implemented the dependancy injection design pattern to inject the view and model in the controller. We also considered to implement a factory design pattern however we dint have enough time to implement both.
 
-Along side that durign the software development we used CRC cards to identify the core classes needed and created both a low-level UML diagram and a high-level UML diagram to show what classes would be connected together and what class variables and methods the classes would contain, and and Sequance diagram that shows the communication between objects.
+Along side that durign the software development we used CRC cards to identify the core classes needed and created both a low-level UML diagram and a high-level UML diagram to show what classes would be connected together and what public class variables and methods the classes would contain, and and Sequance diagram that shows the communication between objects.
 
 Low-Level UML Diagram used:
 ![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/daf92ccc-20be-4c1c-808a-08a1ee94d4e8)
@@ -15,13 +15,16 @@ Model
 ![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/3de4c45f-0536-476d-ae52-1da69fda64ba)
 
 Controller
-![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/1d20b018-e920-48b7-86c0-3fd1fd168eb6)
+
+![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/1b4a336e-a0d5-47fc-b102-a7e3985788cc)
 
 View
-![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/a4b74778-2d21-4e20-8ce3-ffb4b54a5133)
+
+![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/08795ad0-033f-4cb4-947a-d220cb758467)
 
 Route
-![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/d8d18dc9-82e8-45f7-a0d0-e12962c9e352)
+
+![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/94e5af0a-9cab-4a6f-8ad0-70bc09615314)
 
 High-Level UML Diagram used:
 ![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/cf127913-2821-4c4f-99fb-a5cc7ca42f67)
