@@ -1,7 +1,7 @@
 # Image-Gallery-Editing-Tool
 This software uses the .NET Framework and Windows Forms C# to create an image editing tool.
 
-Throughout this group project with me and Matthew Bowman, we used the MVC Archetecture and a TDD (Test Driven Development) approach to the development process. Furthermore we adhered to the SOLID principles throughout the development lifecycle to make sure the code is both cohesive and de-coupled.
+Throughout this group project with me and Matthew Bowman, we used the MVC Archetecture and a TDD (Test Driven Development) approach to the development process by implementing Unit Tests in the development cycle. Furthermore we adhered to the SOLID principles throughout the development lifecycle to make sure the code is both cohesive and de-coupled.
 
 We also implemented the dependancy injection design pattern to inject the view and model in the controller. We also considered to implement a factory design pattern however we dint have enough time to implement both.
 
