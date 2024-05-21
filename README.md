@@ -3,7 +3,7 @@ This is the most recent project developed with Matthew Bowman and it is a softwa
 
 Throughout this group project with me and Matthew Bowman, we used the MVC Archetecture and a TDD (Test Driven Development) approach to the development process by implementing Unit Tests in the development cycle. Furthermore we adhered to the SOLID principles throughout the development lifecycle to make sure the code is both cohesive and de-coupled.
 
-To complement the TDD development approach we also used the Agile methodology to make sure to be continuesly testing the software as we develop it.
+To complement the TDD development approach we also used the Agile methodology for the overall development cycle to make sure to be continuesly testing the software as we develop it.
 
 We also implemented the dependancy injection design pattern to inject the view and model in the controller. We also considered to implement a factory design pattern however we dint have enough time to implement both.
 
