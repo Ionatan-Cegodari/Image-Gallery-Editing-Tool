@@ -27,17 +27,22 @@ High-Level UML Diagram used:
 ![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/cf127913-2821-4c4f-99fb-a5cc7ca42f67)
 
 Model
+
 ![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/cddd68c6-93bb-46bb-87e0-670a145c2edf)
 
 Controller
+
 ![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/8dc12309-c376-4b1a-a24f-16754d1e5246)
 
 View
+
 ![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/9882d64f-4c99-4407-a2ce-aecd9532e616)
 
 Route
+
 ![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/0e06d007-c1e6-489b-80f8-d5e7d11dbcd2)
 
 Sequance Diagram
+
 ![image](https://github.com/Ionatan-Cegodari/Image-Gallery-Editing-Tool/assets/99958974/ab6c20f8-1c44-4ae3-af86-d6702533b267)
 
